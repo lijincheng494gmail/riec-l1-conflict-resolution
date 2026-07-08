@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite this archive and the accompanying manuscript."
+title: "RIEC-L1: reproducibility package for an evidence-led conflict-resolution layer"
+version: "0.2.0-preprint"
+date-released: "2026-07-06"
+authors:
+  - family-names: Li
+    given-names: Jincheng
+  - family-names: Zhao
+    given-names: Yuchen
+  - family-names: Li
+    given-names: Xifeng
+keywords:
+  - model selection
+  - conflict resolution
+  - grouped cross-validation
+  - BIC
+  - finite candidate library
+  - reproducibility
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_OWNER/riec-l1-conflict-resolution"
+abstract: "Code, data, and reference outputs for the RIEC-L1 finite-library conflict-resolution analyses for optics, RTD, drying, and deterministic controlled audit cases."
