@@ -1,0 +1,12 @@
+case,n,n_groups,group_col,baseline_name,n_eff,lambda_c,lambda_weight,aic_best,aicc_best,bic_best,cv_best,riec_best
+drying,72,6,condition_id,lewis_1p,72,0.0,0.0,two_term_3p,two_term_3p,weibull_2p,midilli_4p,weibull_2p
+drying,72,6,condition_id,lewis_1p,72,0.25,0.05845674949661916,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,0.5,0.11691349899323832,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,1.0,0.23382699798647663,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,2.0,0.46765399597295326,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,5.0,1.169134989932383,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,10.0,2.338269979864766,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,20.0,4.676539959729532,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,50.0,11.691349899323832,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,100.0,23.382699798647664,two_term_3p,two_term_3p,weibull_2p,midilli_4p,page_2p
+drying,72,6,condition_id,lewis_1p,72,200.0,46.76539959729533,two_term_3p,two_term_3p,weibull_2p,midilli_4p,two_term_3p

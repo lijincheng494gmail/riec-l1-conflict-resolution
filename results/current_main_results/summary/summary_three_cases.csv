@@ -1,0 +1,4 @@
+case,riec_best,bic_best,cv_best,k_params(riec),cv_risk(riec),xpe(riec),c_lambda(riec)
+optics,cos_poly_deg2,cos_poly_deg2,cos_poly_deg2,6,247.8441736936148,1.0349555285568508,161297.57175056502
+rtd,gamma_2p,gamma_2p,gamma_2p,2,1.0662989116434817e-07,1.0,-174410.1279568617
+drying,page_2p,weibull_2p,midilli_4p,2,0.0041452995229066,1.5685919022898327,-410.6428284407058
