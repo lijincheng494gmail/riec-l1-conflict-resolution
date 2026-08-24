@@ -6,6 +6,7 @@ date-released: "2026-07-16"
 authors:
   - family-names: Li
     given-names: Jincheng
+    orcid: "https://orcid.org/0009-0001-3100-5272"
   - family-names: Zhao
     given-names: Yuchen
   - family-names: Li
@@ -26,6 +27,7 @@ preferred-citation:
   authors:
     - family-names: Li
       given-names: Jincheng
+      orcid: "https://orcid.org/0009-0001-3100-5272"
     - family-names: Zhao
       given-names: Yuchen
     - family-names: Li
